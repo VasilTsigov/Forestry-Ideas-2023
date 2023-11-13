@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsJournal" value="name:journalID;datatype:3,name:journalVolume;datatype:253,name:journalNr;datatype:253,name:journalYear;datatype:253,name:journalTitle;datatype:253,name:journalFile;datatype:253,name:journalFileContent;datatype:253,name:journalCount;datatype:3" />
+</info>
