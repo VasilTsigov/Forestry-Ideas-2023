@@ -5,7 +5,7 @@
 $hostname_localhost = "localhost";
 $database_localhost = "klarobg_forestry";
 $username_localhost = "klarobg_forestry";
-$password_localhost = "BQ*\$6.YM]]wR";
+$password_localhost = "";
 @session_start();
 
 $localhost = mysqli_init();
